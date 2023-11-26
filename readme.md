@@ -38,7 +38,7 @@ CRÉDITOS | VALOR POR UNIDADE | TOTAL
 50       | R$ 7,00            | R$ 350,00
 100      | R$ 6,00            | R$ 600,00
 
-(*Os créditos são utilizados para acesso a recursos premium, períodos de teste para novos clientes e acesso a conteúdo exclusivo da plataforma.*)
+(*Os créditos são utilizados para acesso a recursos, períodos de teste para novos clientes são gratuiros.
 
 ## Processo de Candidatura
 1. Crie uma conta Gmail.
