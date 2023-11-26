@@ -60,4 +60,8 @@ Para mais informações, entre em contato conosco:
 - WhatsApp: [Inserir endereço de email]
 - Telegram: Opcional
 ```
+
+### Preencha o formulário
+https://forms.gle/5m1Prcsr3futoVu97
+
 Estamos ansiosos para tê-lo como parte da nossa rede de franquias do MultiverseTV!
