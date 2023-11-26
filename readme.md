@@ -1,3 +1,6 @@
+
+![2](https://github.com/multiverseTV/franquia/assets/152097542/4ee80fd2-f88d-467c-aa8e-e020742e4432)
+
 # Documento de Franquia MultiverseTV
 
 ## Introdução
