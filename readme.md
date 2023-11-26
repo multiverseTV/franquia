@@ -8,7 +8,7 @@
 Bem-vindo ao documento de franquia do MultiverseTV! Aqui estão os detalhes sobre nossa franquia e como você pode se tornar um parceiro.
 
 ## Sobre o MultiverseTV
-O MultiverseTV é uma plataforma de streaming que oferece uma ampla variedade de canais e filmes de diferentes culturas. Nossa missão é...
+O MultiverseTV é uma plataforma de streaming que oferece uma ampla variedade de canais e filmes de diferentes culturas.
 
 ## Benefícios da Franquia
 - Servidores escaláveis (AWS, GCP)
