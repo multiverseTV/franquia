@@ -1,14 +1,19 @@
 
 
 <img width="200" alt="image" src="https://github.com/multiverseTV/franquia/assets/152097542/4ee80fd2-f88d-467c-aa8e-e020742e4432">
+<img width="200" alt="image" src="https://github.com/multiverseTV/franquia/assets/152097542/15d02af7-f712-459e-9195-0df13c93464b">
 
-# Documento de Franquia MultiverseTV
+# Documento de Franquia MultiverseTV & Internet
 
 ## Introdução
-Bem-vindo ao documento de franquia do MultiverseTV! Aqui estão os detalhes sobre nossa franquia e como você pode se tornar um parceiro.
+Bem-vindo ao documento de franquia do MultiverseTV & Internet! Aqui estão os detalhes sobre nossa franquia e como você pode se tornar um parceiro.
 
 ## Sobre o MultiverseTV
-O MultiverseTV é uma plataforma de streaming que oferece uma ampla variedade de canais e filmes de diferentes culturas.
+Bem-vindo ao MultiverseTV, sua porta de entrada para entretenimento ilimitado! 
+Somos uma plataforma de streaming que oferece uma ampla variedade de canais e filmes para satisfazer todos os gostos. 
+Além disso, proporcionamos acesso à internet ilimitada, garantindo uma experiência de navegação livre e sem restrições para nossos usuários. 
+Estamos comprometidos em oferecer um universo de entretenimento e conectividade ininterrupta. 
+Explore, divirta-se e desfrute do melhor do entretenimento e da liberdade online com o MultiverseTV
 
 ## Benefícios da Franquia
 - Painel Completo para gerenciar clientes, pagamentos, testes
