@@ -3,7 +3,7 @@
 <img width="200" alt="image" src="https://github.com/multiverseTV/franquia/assets/152097542/4ee80fd2-f88d-467c-aa8e-e020742e4432">
 <img width="200" alt="image" src="https://github.com/multiverseTV/franquia/assets/152097542/15d02af7-f712-459e-9195-0df13c93464b">
 
-# Realizando sonhos, conectando mundos. Seja parte da revolução da comunicação com a MultiverseTV! 📉
+# Realizando sonhos, conectando mundos 📉
 
 # Documento de Franquia MultiverseTV & Internet
 
