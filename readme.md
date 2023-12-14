@@ -3,10 +3,23 @@
 <img width="200" alt="image" src="https://github.com/multiverseTV/franquia/assets/152097542/4ee80fd2-f88d-467c-aa8e-e020742e4432">
 <img width="200" alt="image" src="https://github.com/multiverseTV/franquia/assets/152097542/15d02af7-f712-459e-9195-0df13c93464b">
 
+# Realizando sonhos, conectando mundos. Seja parte da revolução da comunicação com a MultiverseTV! 📉
+
 # Documento de Franquia MultiverseTV & Internet
 
 ## Introdução
-Bem-vindo ao documento de franquia do MultiverseTV & Internet! Aqui estão os detalhes sobre nossa franquia e como você pode se tornar um parceiro.
+Bem-vindo ao documento de franquia do MultiverseTV & Internet! 
+Aqui estão os detalhes sobre nossa franquia e como você pode se tornar um parceiro.
+
+## Para o modelo de franquia de streaming de TV:
+
+### Explore a oportunidade de franquia do MultiverseTV para streaming de TV. Oferecemos uma ampla variedade de canais e filmes, proporcionando aos clientes entretenimento diversificado. 
+### Seja um parceiro e mergulhe nesse universo de streaming!
+
+## Para o modelo de franquia de internet:
+
+### Descubra a franquia de internet do MultiverseTV. Oferecemos acesso à internet ilimitada para proporcionar uma experiência de navegação livre de restrições. 
+### Seja um parceiro e ofereça liberdade online aos usuários!
 
 ## Sobre o MultiverseTV
 Bem-vindo ao MultiverseTV, sua porta de entrada para entretenimento ilimitado! 
